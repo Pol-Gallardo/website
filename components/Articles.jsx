@@ -97,7 +97,7 @@ const Articles = () => {
                 </div>
                 {/* Slider */}
                 <div className='xl:max-w-[800px] xl:absolute right-20 top-0'>
-                    <Swiper className='h-[600px]' slidesPerView={1} breakpoints={{
+                    <Swiper className='h-[650px]' slidesPerView={1} breakpoints={{
                         640: {
                             slidesPerView: 2
                         }
