@@ -29,7 +29,7 @@ const Contact = () => {
                     { /* mail */ }
                     <div className="flex items-center gap-x-8">
                         <MailIcon size={18} className="text-primary" />
-                        <div>info@polgallardo.com</div>
+                        <div>pol.gallardo96@gmail.com</div>
                     </div>
                     { /* address */ }
                     <div className="flex items-center gap-x-8">
