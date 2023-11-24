@@ -52,7 +52,7 @@ const Reviews = () => {
                     pagination={{
                         clickable: true
                     }}
-                    className='h-[350px]'
+                    className='h-[${window.innerWidth < 1100 ? 515 : 300}px]'
                 >
                     {reviewsData.map((person, index) => {
                         return (
