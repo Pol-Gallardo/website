@@ -8,7 +8,6 @@ import Services from '@/components/Services';
 export default function Home() {
   return (
     <main>
-      <meta name="facebook-domain-verification" content="l0qnwvu8ep405mefkuntntm1f36xry" />
       <Hero />
       <Services />
       <Articles />

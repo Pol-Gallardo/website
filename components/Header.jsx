@@ -29,6 +29,8 @@ const Header = () => {
             : 'py-6 dark:bg-transparent'
         } sticky top-0 z-30 transition-all ${pathname === '/' && 'bg-[#fef9f5]'}`}
         >
+            <meta name="facebook-domain-verification" content="l0qnwvu8ep405mefkuntntm1f36xry" />
+
             <div className='container mx-auto'>
                 <div className='flex justify-between items-center'> 
                 <Logo />
